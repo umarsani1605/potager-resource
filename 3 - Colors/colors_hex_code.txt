@@ -1,0 +1,10 @@
+Primary color: #8ad168
+Icon background: #f4ffef
+Background 1: #FFFFFF
+
+Text header (white): #FFFFFF
+Text header (black): #707070
+Text body: #707070
+
+Active button: #8ad168
+Inactive button: #a8a8a8
